@@ -2,8 +2,6 @@
 
 ### Hi there 👋, my name is Anik
 #### I am web developer 
-![I am web developer ](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/s851x315/84663531_1048383565525463_8524128305681530880_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=da31f3&_nc_eui2=AeHdSQHkEp1jwsW0oCOvJ7JfzaeiZMRD7QnNp6JkxEPtCVW_sBNYn9JvYGIv2WEJWOWhdKKEGo_Zuis6LPVVp24m&_nc_ohc=InqH-36J6NMAX9nhqhc&tn=MmnncrE-m02AQKfJ&_nc_ht=scontent.fdac24-2.fna&oh=00_AT9N2qAX0WMfo7PpyudyHPFFKZf9PM3h3M_XoWeFw6sUoA&oe=62341AF3)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
